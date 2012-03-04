@@ -16,7 +16,6 @@ GEM
       guard (>= 0.8.3)
     guard-jasmine-node (0.0.5)
       guard (>= 0.4)
-    libnotify (0.7.2)
     multi_json (1.1.0)
     thor (0.14.6)
 
@@ -26,4 +25,3 @@ PLATFORMS
 DEPENDENCIES
   guard-coffeescript
   guard-jasmine-node
-  libnotify
